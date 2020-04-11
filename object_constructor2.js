@@ -8,3 +8,4 @@ console.log(bmw.carModel)
 
 mercedes = new Car("z675", 2016)
 console.log(mercedes.carModel)
+
